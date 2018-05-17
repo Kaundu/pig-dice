@@ -1,0 +1,18 @@
+img{
+  height: 200px;
+  width: 200px;
+}
+.jumbotron{
+  text-align: center;
+  color: rgb(50, 76, 213);
+  background-color: rgba(162, 199, 38, 0.55);
+}
+html ,body{
+  background-image: url(../bugs.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+#title{
+  font-family: 'Cinzel', serif;
+}
